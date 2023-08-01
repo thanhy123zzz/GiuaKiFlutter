@@ -1,0 +1,12 @@
+com.example.youtube.app-jetified-window-1.0.0-beta04-0 C:\Users\thanh\.gradle\caches\transforms-3\4a519d8241f18425848ee2eb361f7e88\transformed\jetified-window-1.0.0-beta04\res
+com.example.youtube.app-jetified-annotation-experimental-1.1.0-1 C:\Users\thanh\.gradle\caches\transforms-3\58eee7595de58f7e443e1f4592934861\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.youtube.app-jetified-window-java-1.0.0-beta04-2 C:\Users\thanh\.gradle\caches\transforms-3\5d1d5115b2c1deea26c991b2200490a5\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.youtube.app-core-1.6.0-3 C:\Users\thanh\.gradle\caches\transforms-3\c0c55a33fdc5046d771f9988de5ec071\transformed\core-1.6.0\res
+com.example.youtube.app-debug-4 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\android\app\src\debug\res
+com.example.youtube.app-main-5 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\android\app\src\main\res
+com.example.youtube.app-pngs-6 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\build\app\generated\res\pngs\debug
+com.example.youtube.app-resValues-7 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\build\app\generated\res\resValues\debug
+com.example.youtube.app-rs-8 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\build\app\generated\res\rs\debug
+com.example.youtube.app-mergeDebugResources-9 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.youtube.app-mergeDebugResources-10 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.youtube.app-merged_res-11 D:\ProjectFlutter\GiuaKi\app_youtube_flutter\build\app\intermediates\merged_res\debug
